@@ -1,3 +1,4 @@
 [submodule "reference/git-sub-module"]
 	path = reference/git-sub-module
+	branch = main
 	url = https://github.com/zakihuang/git-sub-module.git
